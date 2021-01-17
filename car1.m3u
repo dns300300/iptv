@@ -1,30 +1,72 @@
 #EXTM3U
 
-#EXTINF:0, OSN051:Disney Junior HD
-http://mu01.okcomputer.club:8880/LHLM0141/23433243/69429
-#EXTINF:0, BN024:BeIN Junior
-http://mu01.okcomputer.club:8880/LHLM0141/23433243/2118
-#EXTINF:0, US027:Disney-JR
-http://mu01.okcomputer.club:8880/LHLM0141/23433243/3141
-#EXTINF:0, CA024:Disney Junior HD
-http://mu01.okcomputer.club:8880/LHLM0141/23433243/3045
+#EXTINF:-1, |AR| BEIN BOOMERANG HD
+http://line.cdn-ott.net:80/waleedkr/ZKZLTQHMLB/50936
+#EXTINF:-1, |KIDS| BOOMERANG
+http://line.cdn-ott.net:80/waleedkr/ZKZLTQHMLB/118072
+#EXTINF:-1, |UK|SD| BOOMERANG 
+http://line.cdn-ott.net:80/waleedkr/ZKZLTQHMLB/100922
+#EXTINF:-1, |OSN|HEVC| NICK JR HD 
+http://line.cdn-ott.net:80/waleedkr/ZKZLTQHMLB/125472
+#EXTINF:-1, |OSN| NICK JR HD
+http://line.cdn-ott.net:80/waleedkr/ZKZLTQHMLB/125430
+#EXTINF:-1,  |KIDS| NICK JR
+http://line.cdn-ott.net:80/waleedkr/ZKZLTQHMLB/118076
 
-#EXTINF:0, UK169:Nick Jr
-http://mu01.okcomputer.club:8880/LHLM0141/23433243/28890
-#EXTINF:0, UK277:Nick Junior
-http://mu01.okcomputer.club:8880/LHLM0141/23433243/28782
-#EXTINF:0, UK169:Nick Jr TOO
-http://mu01.okcomputer.club:8880/LHLM0141/23433243/28951
-#EXTINF:0, UK278:Nick Junior TOO
-http://mu01.okcomputer.club:8880/LHLM0141/23433243/28781
-#EXTINF:0,US789:BOOMERANG HD
-http://mu01.okcomputer.club:8880/LHLM0141/23433243/64364
+#EXTINF:-1, |OSN| DISNEY JUNIOR HD
+http://line.cdn-ott.net:80/waleedkr/ZKZLTQHMLB/125424
+#EXTINF:-1, |OSN|HEVC| DISNEY JUNIOR HD
+http://line.cdn-ott.net:80/waleedkr/ZKZLTQHMLB/125466
+#EXTINF:-1, |UK|FHD| DISNEY JUNIOR
+http://line.cdn-ott.net:80/waleedkr/ZKZLTQHMLB/100914
+#EXTINF:-1, |KIDS| DISNEY JUNIOR
+http://line.cdn-ott.net:80/waleedkr/ZKZLTQHMLB/118078
+#EXTINF:-1, |UK|FHD| BBC 3/CBBC
+http://line.cdn-ott.net:80/waleedkr/ZKZLTQHMLB/100650
 
-#EXTINF:0,UK149:Cbeebies
-http://mu01.okcomputer.club:8880/LHLM0141/23433243/28910
-#EXTINF:0,UK097:Tiny Pop   1
-http://mu01.okcomputer.club:8880/LHLM0141/23433243/28962
-#EXTINF:0, KS011:Space Toon
-http://mu01.okcomputer.club:8880/LHLM0141/23433243/2060
-#EXTINF:0, AC389:MAJD KIDS
-http://mu01.okcomputer.club:8880/LHLM0141/23433243/27529
+#EXTINF:-1,|AR| JEEM KIDS HD
+http://line.cdn-ott.net:80/waleedkr/ZKZLTQHMLB/1051
+#EXTINF:-1,|AR| BARAEM KIDS HD
+http://line.cdn-ott.net:80/waleedkr/ZKZLTQHMLB/1049
+#EXTINF:-1,|AR| AL MAJD KIDS HD
+http://line.cdn-ott.net:80/waleedkr/ZKZLTQHMLB/1863
+#EXTINF:-1,|AR| SPACETOON
+http://line.cdn-ott.net:80/waleedkr/ZKZLTQHMLB/1047
+#EXTINF:-1,|AR| TOYOR ALJANAH
+http://line.cdn-ott.net:80/waleedkr/ZKZLTQHMLB/134259
+#EXTINF:-1,|AR| FLIX Grendizer
+http://line.cdn-ott.net:80/waleedkr/ZKZLTQHMLB/144071
+#EXTINF:-1,|AR| FLIX اCaptin Majeed
+http://line.cdn-ott.net:80/waleedkr/ZKZLTQHMLB/144124
+#EXTINF:-1,|AR| FLIX Hekyat
+http://line.cdn-ott.net:80/waleedkr/ZKZLTQHMLB/144128
+#EXTINF:-1,|AR| FLIX Baseed
+http://line.cdn-ott.net:80/waleedkr/ZKZLTQHMLB/144130
+#EXTINF:-1,|AR| FLIX Sanapher
+http://line.cdn-ott.net:80/waleedkr/ZKZLTQHMLB/144134
+#EXTINF:-1,|AR| FLIX Senan
+http://line.cdn-ott.net:80/waleedkr/ZKZLTQHMLB/144136
+#EXTINF:-1,|AR| FLIX Masha & the beer
+http://line.cdn-ott.net:80/waleedkr/ZKZLTQHMLB/144139
+#EXTINF:-1,|AR| FLIX Adnan wa Lena
+http://line.cdn-ott.net:80/waleedkr/ZKZLTQHMLB/144141
+#EXTINF:-1,|AR| FLIX Mawkelly
+http://line.cdn-ott.net:80/waleedkr/ZKZLTQHMLB/160565
+#EXTINF:-1,|AR| FLIX Bill & Sepstian
+http://line.cdn-ott.net:80/waleedkr/ZKZLTQHMLB/160567
+#EXTINF:-1,|AR| FLIX Plotu
+http://line.cdn-ott.net:80/waleedkr/ZKZLTQHMLB/209682
+#EXTINF:-1,|AR| FLIX Donald
+http://line.cdn-ott.net:80/waleedkr/ZKZLTQHMLB/209670
+#EXTINF:-1,|AR| FLIX Pink Panther
+http://line.cdn-ott.net:80/waleedkr/ZKZLTQHMLB/209681
+#EXTINF:-1,|AR| FLIX Tom & Jerry
+http://line.cdn-ott.net:80/waleedkr/ZKZLTQHMLB/209678
+#EXTINF:-1,|AR| FLIX Mr bean
+http://line.cdn-ott.net:80/waleedkr/ZKZLTQHMLB/209677
+#EXTINF:-1,|AR| FLIX Loony Tones
+http://line.cdn-ott.net:80/waleedkr/ZKZLTQHMLB/209674
+#EXTINF:-1,|AR| FLIX Govi
+http://line.cdn-ott.net:80/waleedkr/ZKZLTQHMLB/209673
+#EXTINF:-1,|AR| FLIX Shaun
+http://line.cdn-ott.net:80/waleedkr/ZKZLTQHMLB/209685
